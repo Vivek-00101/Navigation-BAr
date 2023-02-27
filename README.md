@@ -1,2 +1,3 @@
 # Navigation-Bar
-Mycin Bootcamp project: Navigation Bar by react.js
+Mycin Bootcamp project: 7day bootcamp
+Navigation Bar by react.js
